@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-notino",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Notino de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-notino",
+    "voucher-notino",
+    "cupon-notino",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/notino.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-notino.git"
+  }
+}
